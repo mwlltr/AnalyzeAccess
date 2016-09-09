@@ -1,0 +1,6600 @@
+27 IDAnruf
+v003546 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-30 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+Beihilfe txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Leistungsabrechnung txtAnrufVermeidbar
+test txtDetaillierung
+null txtKK
+29 IDAnruf
+v003546 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-30 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - Dritte txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6KB txtAnrufWeitergeleitetAn
+4 txtMehrfachanliegen
+null txtAnrufVermeidbar
+teasd txtDetaillierung
+null txtKK
+40 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+41 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+42 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+43 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+>4 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+44 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+45 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+46 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+47 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+48 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+49 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+50 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+51 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+Falsche Variante in GE abgerechnet. GKV-Anteil war nachgewiesen. txtDetaillierung
+null txtKK
+52 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf beendet ohne Vorgangs-/Anrufweiterleitung: Rufnummer kommuniziert txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+55 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+56 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+57 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+58 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+59 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+60 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+61 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+Datenpanne txtDetaillierung
+null txtKK
+62 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+64 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+65 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+66 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+VM - Versicherungsmakler txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+68 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+69 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+VM - Versicherungsmakler txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+70 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+71 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+72 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+73 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6KV txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+74 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+75 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+76 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+77 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+78 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+80 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+81 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+82 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+83 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+84 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+85 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+86 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+87 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+88 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+89 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+90 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+91 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+92 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+94 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+95 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+96 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+97 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+98 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+99 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+100 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+Rechnung wurde einer falschen Person zugeordnet und zusätzlich unnötigerweise eine Verordnung angefordert txtDetaillierung
+KK51143528 txtKK
+101 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+102 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+103 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+104 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+105 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+106 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+107 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+108 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+109 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+110 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+111 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+112 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+113 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+114 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+115 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+116 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+3 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+117 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+119 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+120 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-08-31 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+121 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+122 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+123 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+124 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+125 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+126 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+Beleg von Frau abgerechnet. Von Mann nicht. txtDetaillierung
+null txtKK
+127 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+128 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+129 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LM txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+130 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+131 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+132 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+133 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+134 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+135 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+136 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+3 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+137 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6KV txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+138 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+139 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+140 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+141 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+142 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+143 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+144 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+145 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+146 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+147 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+148 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+149 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+150 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+151 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+152 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+153 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+154 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+155 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+156 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+157 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+158 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+159 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+160 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+161 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+Beihilfe txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+162 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - Interessent txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+163 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+164 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+165 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+166 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+167 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+168 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+169 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+170 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+171 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+172 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+173 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+174 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+175 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+176 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+177 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf beendet ohne Vorgangs-/Anrufweiterleitung: Rufnummer kommuniziert txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+178 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+180 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+182 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+183 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+184 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+185 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+186 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+187 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Zusage nicht eingehalten (z.B. Rückruf) txtAnrufVermeidbar
+Zusage für die Erstattung eines Einbettzimmers wurde nicht eingehalten und abgelehnt txtDetaillierung
+KK21517820 txtKK
+188 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+189 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+190 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+191 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+192 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+unvollständige Leistungsabrechnung txtAnrufVermeidbar
+Rezept vergessen. txtDetaillierung
+null txtKK
+193 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+194 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+196 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-01 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+198 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+VM - MA (VL, VB, KBK, DBK) txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+199 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+200 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+201 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+202 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+203 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+204 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+Beihilfe txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+205 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+VM - SparkassenMA txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+206 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+207 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+208 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+209 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+210 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+211 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+212 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+213 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+214 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+215 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+216 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+217 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+218 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+219 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+220 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+221 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+222 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+223 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+224 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+225 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+226 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+227 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+228 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+229 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+230 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+232 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+233 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+Reise txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+234 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - Interessent txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+235 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+236 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+237 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+239 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+240 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+241 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+242 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+243 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+mehrere Belege übersehen. txtDetaillierung
+null txtKK
+244 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+245 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+246 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Zusage nicht eingehalten (z.B. Rückruf) txtAnrufVermeidbar
+Sollte Bescheinigung per Mail bekommen in den nächsten Minuten. War vor einer Woche, Vorgang noch offen. txtDetaillierung
+null txtKK
+247 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+248 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+249 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf beendet ohne Vorgangs-/Anrufweiterleitung: Rufnummer kommuniziert txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+252 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+Sonstige txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+253 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+254 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+256 IDAnruf
+v003669 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-02 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+258 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+259 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+260 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+261 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+262 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+263 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+264 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Leistungsabrechnung txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+265 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+266 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+268 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+269 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LM txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+270 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+falscher KK-Nummer zugeordnet txtDetaillierung
+KK51530588 txtKK
+271 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+272 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+273 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+274 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+275 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+276 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+277 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+278 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+279 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+280 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+281 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+282 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+283 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+284 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+unverständlicher Schriftwechsel txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+285 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+286 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+287 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+288 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+289 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+290 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+291 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+292 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+293 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+294 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+295 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+296 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+3 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+297 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+3 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+298 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+299 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+Beihilfe txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+301 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+302 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+303 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+304 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+305 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+306 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+307 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+VM - SparkassenMA txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+308 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+309 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+310 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+311 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+312 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+313 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+314 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+315 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+316 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+317 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+318 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+319 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+320 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+322 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+323 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+324 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-05 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+327 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+328 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+329 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+330 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+331 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+332 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+333 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+334 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+335 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+337 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+338 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+339 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+340 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+341 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+342 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+343 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+344 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+345 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+346 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+347 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+348 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+349 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+350 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+351 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+352 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+353 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+354 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+355 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+356 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+357 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+358 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+359 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+360 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+362 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+363 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+364 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+365 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+366 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+367 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - Interessent txtAnruferart
+URV txtVersicherungsart
+KU - Interessent txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+369 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+370 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+371 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+372 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Leistungsabrechnung txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+373 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+374 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-06 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+376 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+377 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+378 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+VM - Versicherungsmakler txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+379 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+380 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+381 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+unvollständige Leistungsabrechnung txtAnrufVermeidbar
+Beleg über 3131,24€ nur mit 313,24€ abgerechnet txtDetaillierung
+KK22360642 txtKK
+382 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+383 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+384 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+385 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+386 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+387 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+388 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+389 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+4 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+390 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+391 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+392 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+393 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf beendet ohne Vorgangs-/Anrufweiterleitung: Rufnummer kommuniziert txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+394 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+395 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+396 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+397 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+398 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+400 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LM txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+401 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+402 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+403 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+406 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+407 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+408 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+Beihilfe txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+409 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+410 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+3 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+411 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+412 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+413 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+414 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+415 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+416 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+VM - SparkassenMA txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+417 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+418 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+419 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+420 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+421 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+422 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+423 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+424 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+425 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+426 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+427 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+428 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+429 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+430 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+432 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+433 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+435 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+436 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+438 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+440 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+441 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+442 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-07 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+444 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+445 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+446 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+447 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+448 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+449 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6KV txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+450 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+452 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+454 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+455 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+456 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+457 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+2 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+458 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+459 IDAnruf
+v002210 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+460 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+461 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+462 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+464 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Leistungsabrechnung txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+466 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+VM - SparkassenMA txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+467 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+468 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+469 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+mit Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+470 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VP txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+471 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+472 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+473 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+474 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+475 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+476 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+3 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+477 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+478 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+479 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+480 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+fehlerhafte Bearbeitung txtAnrufVermeidbar
+Beleg wurde einer falschen VP zugeordnet txtDetaillierung
+null txtKK
+482 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+483 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+484 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+485 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+VM - SparkassenMA txtAnruferart
+Auslandsreise txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+486 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+487 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+488 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Vorgang weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+LK txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+489 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+490 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+491 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+492 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+493 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+494 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+495 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+496 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+497 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+498 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+499 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+500 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+501 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+502 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+503 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+504 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+505 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+506 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+VM - SparkassenMA txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+507 IDAnruf
+v003667 txtMitarbeiterID
+UKV txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+509 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+VM - Geschäftstelle/Agentur txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+510 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+511 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+512 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+513 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+514 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+Behandler / Krankenhaus txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+515 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Zusatzversicherung txtVersicherungsart
+KU - VP txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+516 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - Dritte txtAnruferart
+Vollversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf weitergeleitet txtAnrufstatus
+mit Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+6 KS(intern) txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+null txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
+517 IDAnruf
+v002212 txtMitarbeiterID
+BK txtRisikotraeger
+2016-09-08 00:00:00.000000 datErfassungsdatum
+KU - VN txtAnruferart
+Quotenversicherung txtVersicherungsart
+KU - VN txtKundenart
+Anruf abgeschlossen ohne Vorgangs-/Anrufweiterleitung txtAnrufstatus
+ohne Nacharbeit txtNacharbeit
+ohne Rückfrage txtRückfrage
+null txtAnrufWeitergeleitetAn
+1 txtMehrfachanliegen
+Rückstand txtAnrufVermeidbar
+null txtDetaillierung
+null txtKK
